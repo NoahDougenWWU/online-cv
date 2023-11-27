@@ -93,72 +93,30 @@ experiences:
             - Managing library inventory of resources.
 
 certifications:
-      title: Certifications
+      title: Projects
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Personal Compiler
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: 2019
+          organization: Drake University
+          credentialid: 
+          credentialurl: 
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+            This project involved creating the front-end and back-end for a simple coding language. Named the Last Lighhouse compiler, it can parse simple math equations while taking order of 
+            operations into account. Devaloped in python, it can be found at https://github.com/noah-dougen/PersonalCompiler.
+        - name: Drake Relays Companion App
+          start: 2020
+          end: 2020
+          organization: Drake University
+          credentialid: 
+          credentialurl: 
+          credentialname:
+          details: |
+            A companion app for the Drake Relays, a yearly track-and-field event held at Drake University. Designed to help students navigate different events at the relays. Written in Kivy,
+            a python framework for mobile applications, and MySQL. The database was hosted using Amazon Web Service. The project was completed with William Bartolomucci, Jordan Klein, and Nicholas 
+            Shipley. It can be found here: https://github.com/noah-dougen/CapstoneProject.
+    
 
 projects:
     title: Leadership and Community Engagement
@@ -184,23 +142,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
+        level: 98%
+
+      - name: Java
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 95%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C/C++
+        level: 90%
+
+      - name: C#
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
